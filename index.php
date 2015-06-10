@@ -97,9 +97,9 @@ $(window).load(function() {
         <div class="container"> 
             <h1 class="navbar-brand navbar-brand_"><a href="index.html"><img src="img/logo.png" alt="logo"></a></h1>
             <ul class="address_icon">
-                <li><span class="fa fa-map-marker"></span>9870 St Vincent Place, Glasgow, DC 45 Fr 45.</li>
-                <li><span class="fa fa-envelope"></span><a href="#">contact@demolink.org</a></li>
-                <li><span class="fa fa-phone"></span>+1 800 559 6580</li>
+                <li><span class="fa fa-map-marker"></span>Independecia #3335, Nuevo Laredo, Tamps.</li>
+                <li><span class="fa fa-envelope"></span><a href="#">marthaeva@consultasaduanales.com.mx</a></li>
+                <li><span class="fa fa-phone"></span>+1 (52) (867) 712 34 48</li>
             </ul>
         </div>
     </div>
@@ -142,9 +142,9 @@ $(window).load(function() {
 </header>
 <div class="slider">  
     <div class="camera_wrap">
-        <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture1.jpg"><div class="camera-caption fadeIn"><p class="title">With our professional <br>CV your job interview <br>is guaranteed</p><a href="#" class="btn-default btn1">order now!</a></div></div>
-        <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture2.jpg"><div class="camera-caption fadeIn"><p class="title">Professional CVs <br>and cover letters <br>for every job description</p><a href="#" class="btn-default btn1">order now!</a></div></div>
-        <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture3.jpg"><div class="camera-caption fadeIn"><p class="title">Your first step <br>in climbing up <br>the service ladder</p><a href="#" class="btn-default btn1">order now!</a></div></div>
+        <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture1.jpg"><div class="camera-caption fadeIn"><p class="title">LEY DE LOS IMPUESTOS <br>GENERALES DE IMPORTACIÓN <br>Y EXPORTACIÓN</p><a href="#" class="btn-default btn1">leer más</a></div></div>
+        <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture2.jpg"><div class="camera-caption fadeIn"><p class="title">NOTAS <br>EXPLICATIVAS </p><a href="#" class="btn-default btn1">leer más</a></div></div>
+        <div data-src="http://livedemo00.template-help.com/wt_53534/img/picture3.jpg"><div class="camera-caption fadeIn"><p class="title">COMPENDIO DE <br>COMERCIO EXTERIOR </p><a href="#" class="btn-default btn1">leer más</a></div></div>
     </div>
 </div>
 <!--content-->
@@ -157,15 +157,14 @@ $(window).load(function() {
     </div>
     <div class="thumb-box1">
         <div class="container">
-            <h2>Resume services</h2>
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 wow fadeInLeft" data-wow-delay="0.15s">
                     <div class="thumb-pad1 maxheight">
                         <div class="thumbnail">
-                            <figure><img src="http://livedemo00.template-help.com/wt_53534/img/page1_icon1.png" alt=""></figure>
+                            <figure><img src="img/page1_icon4.png" alt=""></figure>
                             <div class="caption">
-                                <a href="#">Entry level</a>
-                                <p>Just starting out? There's no need to worry about inexperience. We can find your best attributes while displaying your unlimited potential.</p>
+                                <a href="#">Nosotros</a>
+                                <!-- <p>Just starting out? There's no need to worry about inexperience. We can find your best attributes while displaying your unlimited potential.</p> -->
                             </div>  
                         </div>
                     </div>
@@ -173,10 +172,10 @@ $(window).load(function() {
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 wow fadeInLeft">
                     <div class="thumb-pad1 maxheight">
                         <div class="thumbnail">
-                            <figure><img src="http://livedemo00.template-help.com/wt_53534/img/page1_icon2.png" alt=""></figure>
+                            <figure><img src="img/page1_icon1.png" alt=""></figure>
                             <div class="caption">
-                                <a href="#">Professional</a>
-                                <p>This type of resume is best for those who are already established in a particular field or have an impressive history to back-up a job change.</p>
+                                <a href="#">Editorial</a>
+                                <!-- <p>This type of resume is best for those who are already established in a particular field or have an impressive history to back-up a job change.</p> -->
                             </div>  
                         </div>
                     </div>
@@ -184,10 +183,10 @@ $(window).load(function() {
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 wow fadeInRight">
                     <div class="thumb-pad1 maxheight">
                         <div class="thumbnail">
-                            <figure><img src="http://livedemo00.template-help.com/wt_53534/img/page1_icon3.png" alt=""></figure>
+                            <figure><img src="img/page1_icon2.png" alt=""></figure>
                             <div class="caption">
-                                <a href="#">Executive</a>
-                                <p>With this resume your career accomplishments will be emphasized while highlighting your experience as an executive level professional.</p>
+                                <a href="#">Clientes</a>
+                                <!-- <p>With this resume your career accomplishments will be emphasized while highlighting your experience as an executive level professional.</p> -->
                             </div>  
                         </div>
                     </div>
@@ -195,10 +194,10 @@ $(window).load(function() {
                 <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 wow fadeInRight" data-wow-delay="0.15s">
                     <div class="thumb-pad1 maxheight">
                         <div class="thumbnail">
-                            <figure><img src="http://livedemo00.template-help.com/wt_53534/img/page1_icon4.png" alt=""></figure>
+                            <figure><img src="img/page1_icon3.png" alt=""></figure>
                             <div class="caption">
-                                <a href="#">Career Change</a>
-                                <p>Our expert writers will help you to identify your transferable skills and qualifications so you can start your new career today.</p>
+                                <a href="#">Contacto</a>
+                                <!-- <p></p> -->
                             </div>  
                         </div>
                     </div>
@@ -206,83 +205,13 @@ $(window).load(function() {
             </div>
         </div>
     </div>
-    <div class="container">
-        <div class="stellar-section">
-        <div class="thumb-box2" data-stellar-background-ratio="0.1">
-                <div class="row">   
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="list_carousel1 responsive clearfix">
-                            <ul id="foo1">
-                                <li>
-                                    <strong>Free job hunting advice from our resume experts</strong>
-                                    <p><q>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.</q></p>
-                                    <p class="name">Sam Kromstain (CV consultant)</p>
-                                </li>
-                                <li>
-                                    <strong>Free job hunting advice from our resume experts</strong>
-                                    <p><q>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.</q></p>
-                                    <p class="name">Sam Kromstain (CV consultant)</p>
-                                </li>
-                                <li>
-                                    <strong>Free job hunting advice from our resume experts</strong>
-                                    <p><q>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam.</q></p>
-                                    <p class="name">Sam Kromstain (CV consultant)</p>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="foo-btn clearfix">
-                            <div class="pagination" id="foo2_pag"></div>
-                        </div>
-                        <a href="#" class="btn-default btn2">click for details</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="thumb-box3">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6 wow fadeInLeft">
-                    <h2>Resume editing</h2>
-                    <h3>Nam libero tempore cum soluta</h3>
-                    <div class="thumb-pad2">
-                        <div class="thumbnail">
-                            <figure><img src="http://livedemo00.template-help.com/wt_53534/img/page1_pic1.jpg" alt=""></figure>
-                            <div class="caption">
-                                <h4>Lorem ipsum dolor sit amet, consectet ur omnis iste natus error adipisicing elit, sed do eiusmod</h4>
-                                <p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porroquisquam est, dolorem ipsum quia dolor sit amet, consectetur.</p>
-                            </div>  
-                        </div>
-                        <a href="#" class="btn-default btn3">Read More</a>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-md-6 wow fadeInRight">
-                    <h2>Why choose us</h2>
-                    <h3>Nam libero tempore cum soluta</h3>
-                    <div class="thumb-pad2">
-                        <div class="thumbnail">
-                            <figure><img src="http://livedemo00.template-help.com/wt_53534/img/page1_pic2.jpg" alt=""></figure>
-                            <div class="caption">
-                                <h4>Consectetr adipisicing elit sed oluptas sit aspernatur do tempor incididunt ut labore </h4>
-                                <ul class="list1">
-                                    <li><a href="#">Nemo enim ipsam voluptatem quia voluptas</a></li>
-                                    <li><a href="#">Sit aspernatur aut odit aut fugit, sed quia conse</a></li>
-                                    <li><a href="#">Magni dolores eos qui ratione voluptatem</a></li>
-                                </ul>
-                            </div>  
-                        </div>
-                        <a href="#" class="btn-default btn3">Read More</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
     <div class="thumb-box4">
         <div class="container">
             <div class="box">
                 <div class="box1">
-                    <strong>Sign up to get fresh news & deals</strong>
-                    <span>Subscribe to our mailing list</span>
+                    <strong>Enterate, ultimas publicaciones</strong>
+                    <span>Suscribete en nuestro listado de correo.</span>
                 </div>
                 <form id="newsletter" accept-charset="utf-8">
         			<div class="success">Your subscribe request has been sent!</div>
@@ -290,17 +219,10 @@ $(window).load(function() {
         		    	<input type="email" value="">
         		    	<span class="error">*This is not a valid email address.</span>
         		    </label>
-                    <a href="#" data-type="submit" class="btn-default btn4">submit</a>
+                    <a href="#" data-type="submit" class="btn-default btn4">registrar</a>
         		</form>
             </div>
-            <ul class="list2">
-                <li><a href="#"><img src="http://livedemo00.template-help.com/wt_53534/img/company1.png" alt=""></a></li>
-                <li><a href="#"><img src="http://livedemo00.template-help.com/wt_53534/img/company2.png" alt=""></a></li>
-                <li><a href="#"><img src="http://livedemo00.template-help.com/wt_53534/img/company3.png" alt=""></a></li>
-                <li><a href="#"><img src="http://livedemo00.template-help.com/wt_53534/img/company4.png" alt=""></a></li>
-                <li><a href="#"><img src="http://livedemo00.template-help.com/wt_53534/img/company5.png" alt=""></a></li>
-                <li><a href="#"><img src="http://livedemo00.template-help.com/wt_53534/img/company6.png" alt=""></a></li>
-            </ul>
+            <br>
         </div>
     </div>
 </div>
@@ -311,9 +233,16 @@ $(window).load(function() {
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-6">
                     <div class="maxheight3">
-                        <p class="title">copyright</p>
-                        <p class="priv">&copy; <em id="copyright-year"></em> <a href="index-5.html">Privacy Policy</a></p>
-                        <strong>Resumex</strong>
+                        <strong>Consultas <br> Aduanales</strong>
+                        <p class="title">Enlaces de Interes</p>
+                        <ul class="follow-list">
+                            <li><a href="http://www.sat.gob.mx/Paginas/Inicio.aspx">SAT</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="maxheight3">
+                        <p class="title">Redes Sociales</p>
                         <ul class="follow-list">
                             <li><a href="#">twitter</a></li>
                             <li><a href="#">facebook</a></li>
@@ -323,31 +252,15 @@ $(window).load(function() {
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6">
                     <div class="maxheight3">
-                        <p class="title">Address</p>
-                        <p>9870 St Vincent Place,<br>Glasgow, DC 45 Fr 45. <br>Freephone:  +1 800 559 6580 <br><a href="#">mail@demolink.org</a></p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-6">
-                    <div class="maxheight3">
-                        <p class="title">Support Menu</p>
-                        <ul class="list1-1">
-                            <li><a href="#">Lost Password?</a></li>
-                            <li><a href="#">Forgot your Username?</a></li>
-                            <li><a href="#">Your Membership</a></li>
-                            <li><a href="#">Your Account</a></li>
-                            <li><a href="#">Support Forum</a></li>
-                        </ul>
+                        <!-- falta acento -->
+                        <p class="title">Direccion</p>
+                        <p>Independecia #3335, Sector Centro, <br> Nuevo Laredo, Tamps.</a></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-6">
                     <div class="indent maxheight3">
-                        <p class="title">About Us</p>
-                        <ul class="list1-1">
-                            <li><a href="#">Customer focus</a></li>
-                            <li><a href="#">Performance</a></li>
-                            <li><a href="#">Affiliates</a></li>
-                            <li><a href="#">CV Review</a></li>
-                        </ul>
+                        <p class="title">Contacto</p>
+                        <br>Telefono:  +1 (52) (867) 712 3448 <br><a href="#">marthaeva@consultasaduanales.com.mx
                     </div>
                 </div>
             </div>
